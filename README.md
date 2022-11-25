@@ -1,5 +1,5 @@
-# ECSE444-LAB
-Microcontroller Course
+# ECSE444-Microprocessors-LAB
+Microprocessors Course
 
 LAB0 : Blinky! Blinky!
 
